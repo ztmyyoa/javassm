@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.example.demo.SSM_frame.project.map.UserMapper">
+
+<!--    &lt;!&ndash; 根据用户名查询用户信息 &ndash;&gt;-->
+<!--    <select id="getUserByUsername" parameterType="String" resultType="com.example.demo.SSM_frame.project.pojo.user">-->
+<!--        SELECT * FROM user WHERE username = #{username}-->
+<!--    </select>-->
+
+<!--    &lt;!&ndash; 可选：其他已有的 CRUD SQL 映射 &ndash;&gt;-->
+
+</mapper>
